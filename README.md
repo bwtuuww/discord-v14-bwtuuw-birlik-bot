@@ -4,7 +4,6 @@
   İndir: ( https://www.mongodb.com/try/download/community )
 ```
 # Aşağıda kurulum aşamaları mevcut
-# MongoDB Compass ( https://www.mongodb.com/try/download/community )
 
 **[1]** - `npm i` **yazınız.**
 **[2]** - `npm install moment` **yazınız.**
