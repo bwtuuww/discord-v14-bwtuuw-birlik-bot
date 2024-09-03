@@ -1,5 +1,5 @@
 # Kurulum Aşamaları
-# Youtube Videosu Kurulum (https://www.youtube.com/watch?v=qn5Ir9ghdzk)
+# Ama Zingo (https://www.youtube.com/watch?v=qn5Ir9ghdzk)
 # MongoDB Compass ( https://www.mongodb.com/try/download/community )
 
 **[1]** - `npm i` **yazınız.**
