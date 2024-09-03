@@ -1,5 +1,9 @@
-# Kurulum Aşamaları
-# Ama Zingo (https://www.youtube.com/watch?v=qn5Ir9ghdzk)
+- MongoDB URL'si açmadan böyle yapmak istiyorsanız, "İndir" butonunun açıklamasında bulunan URL'yi Google'dan indirip kurmanız gerekmektedir.
+```js
+  mongoURL: "mongodb://localhost:27017",
+  İndir: ( https://www.mongodb.com/try/download/community )
+```
+# Aşağıda kurulum aşamaları mevcut
 # MongoDB Compass ( https://www.mongodb.com/try/download/community )
 
 **[1]** - `npm i` **yazınız.**
